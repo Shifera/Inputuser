@@ -6,7 +6,9 @@
       <change beforePath="$PROJECT_DIR$/../inputoutputex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inputoutputex/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myfirstjava" beforeDir="false" afterPath="$PROJECT_DIR$/../myfirstjava" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mynumberex" beforeDir="false" afterPath="$PROJECT_DIR$/../mynumberex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userinputex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inputuser.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SZMS9LaSwCeZeVQ9xZJF4gOPSR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,7 +47,7 @@
   <component name="RunManager">
     <configuration name="Userinputex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Userinputex" />
-      <module name="userinputex" />
+      <module name="Inputuser" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,7 +70,7 @@
       <updated>1571766661642</updated>
       <workItem from="1571766665615" duration="7517000" />
       <workItem from="1571835487309" duration="705000" />
-      <workItem from="1571838528474" duration="307000" />
+      <workItem from="1571838528474" duration="1496000" />
     </task>
     <servers />
   </component>
